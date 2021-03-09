@@ -1,3 +1,8 @@
+/** 
+ * creating own malloc() functin which allocates memory dynamically 
+ * here I have named it as ymalloc()
+ * for more details read README file
+*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
