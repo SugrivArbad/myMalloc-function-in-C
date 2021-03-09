@@ -1,10 +1,3 @@
-/** Do documentation properly
-	1. README
-	2. MAKEFILE
-	3. INPUT
-	4. OUTPUT
- */
-
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
